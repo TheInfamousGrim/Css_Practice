@@ -1,0 +1,55 @@
+.wonders-centered-text {
+    text-align: center;
+}
+
+.red-text {
+    color: red;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.green-text {
+    color: green;
+}
+
+.big-font {
+    font-size: xx-large;
+}
+
+.tiny-font {
+    font-size: xx-small;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.change-font-family {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.orange-big-bold-text {
+    font-size: x-large;
+    font-weight: bold;
+    color: orange;
+}
+
+.styledFont {
+    color: green;
+    font-size: larger;
+    font-style: italic;
+}
+
+#styledImage {
+    background-color: #2965f1;
+    padding: 24px 120px;
+    border-style: solid;
+    border-width: 24px;
+    border-color: #ffa500;
+}
